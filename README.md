@@ -125,4 +125,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Special thanks to the IENG 493C module instructor Mackenzie Keepers and teammates for their guidance and support throughout the project. 
 
-For questions or suggestions, please contact [www.linkedin.com/in/aksh-ay06].
+For questions or suggestions, please contact [https://www.linkedin.com/in/sai-charmika-samudrala-397189260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app].
